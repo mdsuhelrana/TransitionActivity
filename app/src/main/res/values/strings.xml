@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TransitionActivity</string>
+    <string name="baseUrl">https://jsonplaceholder.typicode.com/</string>
+</resources>
